@@ -494,8 +494,8 @@ It is a practical prototype for enterprise knowledge access systems in fintech a
 
 ## Author
 
-**Your Name**  
-GitHub: `[<YOUR_GITHUB_PROFILE_LINK>](https://github.com/Nimesh-Tharaka)`  
+*Nimesh-Tharaka**  
+GitHub: `(https://github.com/Nimesh-Tharaka)`  
 Project: **FinSolve Internal RAG Chatbot with RBAC**
 
 ---
