@@ -23,7 +23,8 @@ This project solves that problem by building a secure internal chatbot that:
 
 ---
 ## Screenshots
-![Screenshot_28-3-2026_225837_localhost](https://github.com/user-attachments/assets/999472f9-1d6f-48f3-a470-fc2fc7f3be9e)
+<img width="1910" height="2251" alt="screencapture-localhost-8501-2026-03-28-23_00_45" src="https://github.com/user-attachments/assets/1e52254d-98ab-4ae3-b8f5-b1237f94288c" />
+
 
 
 <img width="1910" height="5632" alt="screencapture-127-0-0-1-8000-docs-2026-03-28-19_53_55" src="https://github.com/user-attachments/assets/ae44e8f0-5026-444d-bc3b-3a52efa348f5" />
