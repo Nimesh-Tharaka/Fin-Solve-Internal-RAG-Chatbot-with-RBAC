@@ -18,6 +18,9 @@ This project solves that problem by building a secure internal chatbot that:
 - blocks unauthorized and unsafe queries
 - logs chatbot interactions for monitoring
 
+<img width="856" height="278" alt="image" src="https://github.com/user-attachments/assets/f6b9aef9-abd7-4ff8-9fea-fd7827b6fcc0" />
+
+
 ---
 ## Screenshots
 ![Screenshot_28-3-2026_221328_localhost](https://github.com/user-attachments/assets/1d79e98c-e249-4138-b29f-9c6895222cbd)
