@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+streamlit
+langchain
+langchain-community
+chromadb
+sentence-transformers
+python-dotenv
+pydantic
+pandas
+pyjwt
+passlib[bcrypt]
+python-multipart
+tiktoken
+groq
